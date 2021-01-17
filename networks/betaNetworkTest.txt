@@ -1,0 +1,11 @@
+4
+stop0:0:1
+stop1:-1:0
+stop2:4:2
+stop3:2:-8
+2
+train,red,1:stop0|stop2|stop1
+bus,blue,2:
+2
+train,123,30,1,2
+train,42,60,1,3

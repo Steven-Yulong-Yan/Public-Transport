@@ -1,0 +1,12 @@
+4
+stop0:0:1
+stop1:-1:0
+stop2:4:2
+stop3:2:-8
+2
+train,red,1:stop0|stop2|stop1
+bus,blue,2:stop1|stop3|stop0
+3
+train,notAnId,30,1,2
+train,42,big,1,3
+bus,412,20,someRoute,ABC123

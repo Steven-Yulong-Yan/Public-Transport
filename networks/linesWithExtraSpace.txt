@@ -1,0 +1,6 @@
+ 1
+stop0: 0 : 1
+1
+bus,red, 2   :stop0
+1
+bus, 412  , 20 , 2  , ABC123
