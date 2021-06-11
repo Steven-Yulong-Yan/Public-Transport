@@ -1,4 +1,4 @@
-# Public-Transport
+# Public Transport Network
 
 This project involves modelling a public transportation network. The transportation network involves:
 
